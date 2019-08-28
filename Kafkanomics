@@ -1,0 +1,14 @@
+produce(Record reord) {
+
+}
+consume(Record record) {
+
+}
+
+sync(Record record, File file) {
+
+}
+
+Record find(DateTime start, DateTime end, int frequency) {
+  return new Record();
+}
